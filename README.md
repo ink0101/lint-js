@@ -16,6 +16,6 @@
 * linters：检查的目录
 * ignore：忽略规则的目录
 
-### standard
+### eslint
 
-暂时使用的JavaScript代码规范
+使用eslint进行代码风格检查，暂时选择Airbnb的规范
